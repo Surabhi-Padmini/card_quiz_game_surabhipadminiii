@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    All App Activities are defined here-->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/avengers"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/avengers"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.card_quiz_SurabhiPadmini">
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.ShowResult"></activity>
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.ScoreStats"></activity>
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.Quiz" />
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.GameRules" />
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.Login" />
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.Register" />
+<!--        The launcher activity-->
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.card_quiz_SurabhiPadmini.MainActivity" />
+    </application>
+
+</manifest>

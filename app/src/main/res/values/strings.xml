@@ -1,0 +1,82 @@
+<resources>
+    <!--    General string values for App-->
+    <string name="app_name">Card Quiz Game</string>
+    <string name="welcome_msg">Welcome to Avengers!</string>
+    <string name="welcome_desc">The Card Quiz Game</string>
+    <string name="sign_up_message">To create new account, sign up here</string>
+    <string name="created_by">Created by Surabhi Padmini</string>
+    <string name="home_text">Register or Login</string>
+
+    <!--    Registration Form fields-->
+    <string name="button_register">Register</string>
+    <string name="register_text">User Registration Form</string>
+    <string name="first_name">First Name</string>
+    <string name="family_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dob">Date of birth (MM/DD/YYYY)</string>
+    <string name="title_activity_register">Register</string>
+    <string name="register_success">Congratulations! You have successfully registered!</string>
+
+    <!--    Login fields-->
+    <string name="button_login">Login</string>
+    <string name="login_text">Login</string>
+    <string name="login_success">Congratulations! You have successfully logged in!</string>
+    <string name="login_fail">Sorry! Invalid credentials!</string>
+
+    <!--    Game rules-->
+    <string name="game_rule_1">1. The game contains 5 questions related to Avengers.</string>
+    <string name="game_rule_2">2. Every question has 10 points each.</string>
+    <string name="game_rule_3">3. You can answer each question only once.</string>
+    <string name="game_rule_4">4. Answers may be fill-in or multiple choice. Some questions may have multiple choices as answers.</string>
+    <string name="game_rule_5">5. Score will be displayed at the end of the game.</string>
+    <string name="game_rule_message">Here you go! Good Luck!</string>
+    <string name="game_rule_title">Card Game Rules</string>
+    <string name="start_button">START</string>
+
+    <!--    Questions, options and answers -->
+    <string name="question_1">How many infinity stones are there?</string>
+    <string name="option_1_a">Six</string>
+    <string name="option_1_b">Infinite</string>
+    <string name="option_1_c">nine</string>
+    <string name="option_1_d">None of the above</string>
+    <string name="answer_1">Six</string>
+
+    <string name="question_2">What are the stone colours in avengers?</string>
+    <string name="option_2_a">Blue</string>
+    <string name="option_2_b">Yellow</string>
+    <string name="option_2_c">Red</string>
+    <string name="option_2_d">Black</string>
+    <string name="answer_2">Blue,Yellow,Red</string>
+
+    <string name="question_3">What is Tony Starks daughter name?</string>
+    <string name="option_3_a">Natasha Stark</string>
+    <string name="option_3_b">Maria Stark</string>
+    <string name="option_3_c">Morgan Stark</string>
+    <string name="option_3_d">Wanda</string>
+    <string name="answer_3">Morgan Stark</string>
+
+    <string name="question_4">Who did Captain America give his shield in the endgame?</string>
+    <string name="option_4_a">Hulk</string>
+    <string name="option_4_b">Tony</string>
+    <string name="option_4_c">Sam</string>
+    <string name="option_4_d">Antman</string>
+    <string name="answer_4">Sam</string>
+
+    <string name="question_5">Name any three characters in Avengers?</string>
+    <string name="option_5_a">Captain America</string>
+    <string name="option_5_b">Ivanka</string>
+    <string name="option_5_c">Iron Man</string>
+    <string name="option_5_d">Hulk</string>
+    <string name="answer_5">Captian America,Iron Man,Hulk</string>
+
+    <!--    For dialog box and score stats -->
+    <string name="dialog_title">Confirm submission</string>
+    <string name="confirmation_text">Do you want to submit this answer?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="stats">View Previous Scores</string>
+    <string name="back">Go To Home</string>
+    <string name="view_stats">Score History</string>
+</resources>
